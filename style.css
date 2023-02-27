@@ -1,15 +1,46 @@
-#Logo {
-    background-image: url(/images/pattern.png);
-    width: 200px;
+
+header  {
     
+    background-image: url(images/pattern.png);
+    height: 160px;
+    width: auto;
+    background-color: rgb(34, 112, 228);
+     } 
+
+#Logo {
+    margin-top: 75px;
+    margin-left: 10px;
+    width: 200px;
   } 
-
-h1 {
-    text-size-adjust: ;
+#barrablu  {
+    color: white;
+    background-color: rgb(38, 84, 233);
 } 
-#Marker {background-color: yellow;
 
+.Marker {
+    background-color: yellow;
  } 
 
  
+ .acqua  {
+    background-color: rgba(0, 136, 255, 0.4);
+ } 
  
+ #Pi {
+    color: gray;
+ } 
+ 
+ #primafoto  {
+    background-image: url(images/monitor.jpg);
+    width: 270px;
+    height: 220px;
+    text-align: center;
+    color: white;
+} 
+#secondafoto{
+    background-image: url(images/graph.jpg);
+    width: 270px;
+    height: 220px;
+    text-align: center;
+    color: white;
+} 
